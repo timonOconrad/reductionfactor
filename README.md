@@ -1,4 +1,4 @@
-# reductionfactor
+# Reductionfactor
 Model for determining the reduction factor r.
 
 The results and the developed model of this thesis are published on GitHub. For this purpose, the version management system Git was used and uploaded to the servers of GitHub. The advantage of the version control system in conjunction with the server is that subsequent changescan be tracked beyond this work and improvements are possible.
